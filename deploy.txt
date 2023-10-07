@@ -1,0 +1,11 @@
+
+react 배포하는 법
+배포 -> 사용자들이 사이트에 접속해서 사이트를 이용할 수 있냐
+정적페이지의 배포
+
+1) github pages
+
+-- 실무 -- (옛날)
+2) dot home + FTP
+3) aws S3 + CDN(Cloud front)  -- 현재 가장 많이 사용
+4) vercel, netlify (플랫폼)
